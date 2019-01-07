@@ -1,1 +1,1 @@
-# Prune_one_filter
+### Scripts to prune only one filter in a specified layer within caffe.
