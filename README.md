@@ -1,1 +1,1 @@
-### Scripts to prune only one filter in a specified layer within caffe.
+### Scripts to prune filters in a specified layer within caffe.
